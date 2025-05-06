@@ -1,10 +1,10 @@
 # ryry's dti preset faces.
 
-## custom makeup faces made by me, growing with updates frequently.
+## custom makeup faces made by me, growing with updates frequently. (custom makeup NOT NEEDED!)
 
 REQUIREMENTS:
 - A roblox script executor.
-- Custom Makeup in Dress To Impress if you want to save any afces for later (gamepass not needed for quipping faces via gui.)
+- Custom Makeup in Dress To Impress if you want to save any faces for later, when not using the gui. (gamepass not needed for equipping faces via gui.)
 
 # gui script:
 
