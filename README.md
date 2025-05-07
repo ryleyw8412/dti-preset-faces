@@ -11,3 +11,4 @@ REQUIREMENTS:
 ``` lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ryleyw8412/dti-preset-faces/refs/heads/main/main.lua"))()
 ```
+# WARNING: Roblox is rolling out an anti cheat update slowly, meaning if you are detected with a modified version of roblox to work with your executor, you will get punishments, leading up to termination. BE SAFE!
